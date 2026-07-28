@@ -110,3 +110,7 @@ types/                        # Shared TypeScript types
 This project was built as a learning exercise following a publicly available
 full-stack tutorial, then extended and maintained here. Credit for the original
 course material and project structure goes to its respective authors.
+
+The upstream project this was built from is published without a license, so no
+license is asserted here either. The repository is shared for portfolio and
+reference purposes.
