@@ -104,3 +104,9 @@ lib/
 constants/                   # Static app constants
 types/                        # Shared TypeScript types
 ```
+
+## Credits
+
+This project was built as a learning exercise following a publicly available
+full-stack tutorial, then extended and maintained here. Credit for the original
+course material and project structure goes to its respective authors.
